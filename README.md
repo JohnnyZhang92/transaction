@@ -24,7 +24,7 @@ jmeter聚合报告
 ![1000jmeter.png](README_file/1000jmeter.png)
 
 
-1000条数据
+100000条数据
 ![1000search.png](README_file/100000search.png)
 docker负载
 ![1000docker.png](README_file/100000docker.png)
